@@ -18,7 +18,7 @@ A simple, responsive calculator built using **HTML**, **Bootstrap 5**, and **Van
 ## 📸 Preview
 
 <!-- You can include a screenshot by placing an image named 'screenshot.png' in your project folder -->
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot 2025-04-05 200652.png)
 
 ---
 
